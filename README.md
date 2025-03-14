@@ -10,28 +10,28 @@ This project analyzes Internet address survey data collected in two periods: 201
 
 ## Directory Structure
 
-DSCI599_project/
-├── data/ 
-│ ├── block_metrics_2013.csv 
-│ ├── block_metrics_2023.csv 
-│ ├── classified_block_metrics_2013.csv 
-│ ├── df_2013.csv 
-│ ├── df_2023.csv 
-│ ├── features_2013.csv 
-│ ├── features_2023.csv 
-│ ├── filtered_2013.txt 
-│ ├── filtered_2023.txt 
-│ ├── metrics_2013.csv 
-│ ├── metrics_2023.csv 
-│ ├── output_2013.txt 
-│ ├── output_2023.txt 
-│ └── results.txt 
-├── notebook/ 
-│ ├── data_exploration.ipynb 
-│ ├── initial_work.ipynb 
-│ └── main_work.ipynb 
-└── print_datafile-0.5/ 
-    └── [source code and executable]
+DSCI599_project/  
+├── data/  
+│ ├── block_metrics_2013.csv  
+│ ├── block_metrics_2023.csv  
+│ ├── classified_block_metrics_2013.csv  
+│ ├── df_2013.csv  
+│ ├── df_2023.csv  
+│ ├── features_2013.csv  
+│ ├── features_2023.csv  
+│ ├── filtered_2013.txt  
+│ ├── filtered_2023.txt  
+│ ├── metrics_2013.csv  
+│ ├── metrics_2023.csv  
+│ ├── output_2013.txt  
+│ ├── output_2023.txt  
+│ └── results.txt  
+├── notebook/  
+│ ├── data_exploration.ipynb  
+│ ├── initial_work.ipynb  
+│ └── main_work.ipynb  
+└── print_datafile-0.5/  
+    └── [source code and executable]  
 
 ## Description of Files
 
