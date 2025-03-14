@@ -65,6 +65,8 @@ DSCI599_project/
 - **features_2013.csv / features_2023.csv:**  
   These files include additional intermediate feature extraction results.
 
+**Note:** Due to the huge size of the original data files, the raw data (e.g., very large binary or output files) were not uploaded. Only the processed and aggregated CSV/TXT files are included in this submission.
+
 ### Notebook Files (in the `notebook` folder)
 
 - **data_exploration.ipynb:**  
