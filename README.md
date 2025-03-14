@@ -1,5 +1,10 @@
 # Project README
 
+## Contributors
+
+Christopher Bou-Saab
+Pardi Bedirian
+
 ## Overview
 
 This project analyzes Internet address survey data collected in two periods: 2013 and 2023. The project includes the following components:
