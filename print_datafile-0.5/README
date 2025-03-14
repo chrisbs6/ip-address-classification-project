@@ -1,0 +1,35 @@
+print_datafile: a simple utility to see the content of the
+icmptrain-binary output file.
+
+Pre-requisites
+--------------
+None; it helps if you have libmagic, libssl, zlib, and bzlib
+install on your system.
+
+For Fedora 19/20 linux you can do:
+	sudo yum install -y \
+		file file-devel \
+		openssl openssl-devel \
+		zlib zlib-devel \
+		bzip2 bzip2-devel
+
+Installation
+------------
+	./configure 
+if the above fails, try running:
+	autoreconf --install
+	./configure
+
+	make all
+	sudo make install
+if you like print_datafile to be installed in a standard
+location.
+
+Usage
+-----
+For example:
+	./print_datafile -f -j foo.bz2
+See 
+	./print_datafile --help
+for more info on available options
+
