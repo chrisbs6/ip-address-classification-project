@@ -2,7 +2,7 @@
 
 ## Contributors
 
-Christopher Bou-Saab
+Christopher Bou-Saab  
 Pardi Bedirian
 
 ## Overview
