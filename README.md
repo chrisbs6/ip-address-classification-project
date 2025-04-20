@@ -35,7 +35,8 @@ DSCI599_project/
 ├── notebook/  
 │   ├── data_exploration.ipynb  
 │   ├── initial_work.ipynb  
-│   └── main_work.ipynb  
+│   └── main_work_1.ipynb
+│   └── main_work_2.ipynb  
 └── print_datafile-0.5/  
     └── [source code and executable]
 ```
@@ -75,9 +76,9 @@ DSCI599_project/
 - **initial_work.ipynb:**  
   Contains preliminary analysis work. It loads the processed data (from `df_2013.csv` and `df_2023.csv`), creates time-series plots, and computes basic metrics (availability, volatility, median up-time) on a per-probe basis.
 
-- **main_work.ipynb:**  
-  The main analysis notebook where further aggregation is performed. It computes block-level metrics, applies clustering for block classification, and visualizes the results. This notebook includes functions for generating consistent blocks based on IP address groupings and evaluates the ping-observable behavior of each block.
-
+- **main_work_1.ipynb / main_work_2.ipynb:**  
+  These are the notebooks that contain the bulk of our analysis. They include the computation block-level metrics, application of clustering for block classification, and visualizations of the results.  The functions for generating consistent blocks based on IP address groupings are also located here.
+  
 ### Additional Tools
 
 - **print_datafile-0.5:**  
