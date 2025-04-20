@@ -5,6 +5,10 @@
 Christopher Bou-Saab  
 Pardi Bedirian
 
+## Weekly Notes
+
+https://docs.google.com/document/d/1WNlYm1b1rHsj9vASha0wsHb6LO2T3aag/edit?usp=sharing&ouid=108270805879414571755&rtpof=true&sd=true
+
 ## Overview
 
 This project analyzes Internet address survey data collected in two periods: 2013 and 2023. The project includes the following components:
